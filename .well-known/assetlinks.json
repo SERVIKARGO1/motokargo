@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.motokargo.app",
+        "sha256_cert_fingerprints": ["59:7A:12:15:5D:BF:70:0F:65:CD:42:A7:4E:5D:19:6B:FD:CE:76:B3:0C:71:1E:26:DE:29:8E:6C:1A:D0:88:E5"]
+      }
+    }]
